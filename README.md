@@ -1,4 +1,4 @@
-<h1 align="center">Yonngjin, Noh's Github Page</h1>
+<h1 align="center">Youngjin, Noh's Github Page</h1>
 <p align="center">
   <img src="[([https://avatars.githubusercontent.com/u/133024268?v=4)](https://github.com/account)" width="150" style="border-radius: 50%;">
 </p>
