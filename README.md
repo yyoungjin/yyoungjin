@@ -1,5 +1,3 @@
-SCC
-LCS LIS
 <h1 align="center">Yonngjin, Noh's Github Page</h1>
 <p align="center">
   <img src="[(https://avatars.githubusercontent.com/u/133024268?v=4)" width="150" style="border-radius: 50%;">
