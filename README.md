@@ -1,42 +1,42 @@
-<h2 align="center">🛠️ Projects & Experience:</h2>
+<h1 align="center">Youngjin, Noh's Github Page</h1>
 <p align="center">
-  <strong>Taxi Matching Platform</strong><br>
-  <em>Role: PO (Product Owner)</em><br>
-  Successfully led the development of a taxi matching platform. I worked on project planning, team management, and collaboration with developers, ensuring timely completion and customer satisfaction.
+  <img src="[([https://avatars.githubusercontent.com/u/133024268?v=4)](https://github.com/account)" width="150" style="border-radius: 50%;">
+</p>
+<p align="center">
+  <img align='center' src="https://mazandi.herokuapp.com/api?handle=emzmfdudwls&theme=cold">
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=emzmfdudwls">
+</p>
+<p align="center">
+  <img src="#" width = "600">
+</p>
+<div align="center">   
+  <hr>
+  <h3>👋 Hi, I'm Youngjin Noh!</h3>
+  <p>🎓 Studying Business Administration at Hanyang University</p>
+  <p>📚 Passionate about learning algorithms using Python</p>
+  <p>🌟 Successfully completed the project as PO, a taxi matching platform</p>
+  <blockquote>
+> Don't be afraid that you do not know something. Be afraid of not learning about it. - Zen Proverb
+  </blockquote>
+  <h2 align="center">📫 Connect</h2>
+<p align="center">
+  <a href="https://github.com/yyoungjin" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:emzmfdudwls@naver.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://velog.io/@yyoungjin" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
 </p>
 
+  <br>
+  <h2>🛠️ Technologies & Tools:</h2>
+  <p>Technologies that I've used at least once!</p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="DJANGO" />
+</div>
+<p>&nbsp;</p>
 <p align="center">
-  <strong>Algorithm Learning Projects</strong><br>
-  Developed several Python-based algorithms for learning data structures and algorithms. Projects include sorting algorithms, search algorithms, and basic dynamic programming implementations.<br>
-  <a href="https://github.com/yyoungjin/algorithm-projects" target="_blank">View Projects</a>
+  <img src="https://komarev.com/ghpvc/?username=yyoungjin&color=blue&style=flat-square" alt="Visitors">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyoungjin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 </p>
-
-<h2 align="center">🎓 Certifications & Learning</h2>
-<p align="center">
-  <ul>
-    <li>Coursera - Data Structures and Algorithms Specialization</li>
-    <li>Udemy - Python for Data Science and Machine Learning Bootcamp</li>
-    <li>Hanyang University - Business Administration (Ongoing)</li>
-  </ul>
-</p>
-
-<h2 align="center">🧰 Tools & Technologies</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<h2 align="center">🎯 Goals</h2>
-<p align="center">
-  In the near future, I aim to further develop my skills in AI and machine learning, focusing on building intelligent systems using Python. I also want to dive deeper into web development with React and Flask.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yyoungjin" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub" />
-  </a>
-</p>
-
