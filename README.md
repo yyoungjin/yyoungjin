@@ -12,8 +12,8 @@
 <div align="center">   
   <hr>
   <h3>👋 Hi, I'm Youngjin Noh!</h3>
-  <p>🎓 Studying Business Administration at Hanyang University</p>
-  <p>📚 Passionate about learning algorithms using Python</p>
+  <p>🎓 Studying Computer Engineering at Hanyang University</p>
+  <p>📚 Passionate about learning algorithms using Python and highly interested in web development and app development.</p>
   <p>🌟 Successfully completed the project as PO, a taxi matching platform</p>
   <blockquote>
 > Don't be afraid that you do not know something. Be afraid of not learning about it. - Zen Proverb
