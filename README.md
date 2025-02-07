@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="DJANGO" />
-  <img src="https://img.shields.io/badge/FLUTTER-092E20?style=for-the-badge&logo=FLUTTER&logoColor=white" alt="FLUTTER" />
+  <img src="https://img.shields.io/badge/FLUTTER-0000FF?style=for-the-badge&logo=FLUTTER&logoColor=white" alt="FLUTTER" />
 </div>
 <p>&nbsp;</p>
 <p align="center">
