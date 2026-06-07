@@ -120,14 +120,4 @@
   <img src="https://img.shields.io/badge/Workflow%20Automation-0F766E?style=for-the-badge" alt="Workflow Automation" />
 </p>
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyoungjin&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Youngjin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyoungjin&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yyoungjin&color=blue&style=flat-square" alt="Visitors" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyoungjin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
-</p>
