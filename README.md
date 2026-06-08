@@ -57,8 +57,7 @@
   Built a university festival pub real-time ordering system with Spring, Redis state versioning, long polling, payment flow, and concurrency-safe shared cart behavior.  
   Service: [ournight.co.kr](https://ournight.co.kr)
 
-- **KOPLE | Early Member / AI Service Developer**  
-  Worked on a RAG-based campus and location information service with multinational teammates, using AI responses to connect users with grounded, useful information.  
+- **KOPLE | Early Member / Backend Developer**  
   Service: [thekople.com](https://thekople.com)
 
 - **Freelance Software Consultant & Developer**  
